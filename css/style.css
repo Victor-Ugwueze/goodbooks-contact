@@ -594,6 +594,10 @@ Premium section
 /* ----------------
 Responsive
  -------------------*/
+ footer {
+	text-align: center;
+	padding: 20px 2em;
+}
 
 .footer-section {
 	background: #3399ff;
