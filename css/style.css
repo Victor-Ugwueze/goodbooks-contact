@@ -221,9 +221,8 @@ Header section
  ---------------------*/
 
 .header-section {
-	padding-left: 55px;
-	padding-right: 72px;
 	background: #08192d;
+	display: flex;
 }
 
 .site-logo {
@@ -233,9 +232,9 @@ Header section
 }
 
 .header-right {
-	float: right;
+	/* float: right; */
 	padding: 44px 0;
-	margin-left: 130px;
+	/* margin-left: 130px; */
 }
 
 .header-right .hr-btn {
